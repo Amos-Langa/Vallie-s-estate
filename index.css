@@ -1,0 +1,281 @@
+div{
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    padding-left: 100px;
+    padding-right: 100px;
+    margin-right: 200px;
+    border: 1px solid black;
+    border-color: white;
+}
+#name{
+    font-style: italic;
+    padding-right: 100px;
+    font-size: xx-large;
+}
+#home{
+    padding-right: 100px;
+    color: blue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    font-size: x-large;
+}
+#rent{
+    padding-right: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    font-size: x-large;
+}
+#land{
+    padding-right: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    font-size: x-large;
+}
+#agent{
+    padding-right: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    font-size: x-large;
+}
+#contact{
+    padding-right: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    font-size: x-large;
+}
+#get{
+    background-color: blue;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    border-radius: 10px;
+    padding: 20px;
+    font-size: x-large;
+}
+#helping{
+    font-family: sans-serif, Arial, Helvetica, sans-serif;
+    padding-left: 100px;
+    font-size: xx-large;
+    color: blue;
+}
+#property{
+    padding-left: 100px;
+    font-size: xx-large;
+    font-family: sans-serif, Arial, Helvetica, sans-serif;
+    color: blue;
+}
+#dreams{
+    padding-left: 100px;
+    font-size: xx-large;
+    font-family: sans-serif, Arial, Helvetica, sans-serif;
+    color: blue;
+}
+#creating{
+    font-family: sans-serif, Arial, Helvetica, sans-serif;
+    padding-left: 100px;
+}
+#stronger{
+    font-family: sans-serif, Arial, Helvetica, sans-serif;
+    padding-left: 100px;
+}
+#learn{
+    padding: 20px;
+    background-color: blue;
+    margin-left: 100px;
+    color: white;
+}
+#bar2{
+    display: flex;
+    flex: row;
+}
+#location{
+    padding-right: 100px;
+    margin-left: 200px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: blue;
+}
+#propertytype{
+    padding-right: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: blue;
+}
+#max{
+    padding-right: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: blue;
+}
+#search{
+    padding: 20px;
+    background-color: blue;
+    color: white;
+    border-radius: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#lekki{
+    color: grey;
+}
+#duplex{
+    color: grey;
+}
+#price{
+    color: grey;
+}
+#our{
+    color: blue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-size: xx-large;
+    margin-left: 100px;
+}
+#how{
+    color: blue;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: auto;
+}
+#this{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 100px;
+}
+#bar3{
+    display: flex;
+    flex: row;
+    padding-top: 100px;
+}
+#find{
+    font-family: Arial, Helvetica, sans-serif;
+}
+#ourproperties{
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    color: grey;
+}
+#makepayments{
+    font-family: Arial, Helvetica, sans-serif;
+}
+#ourestates{
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    color: grey;
+}
+#makeitofficial{
+    font-family: Arial, Helvetica, sans-serif;
+}
+#wehave{
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    color: grey;
+}
+#whyus{
+    font-family: Arial, Helvetica, sans-serif;
+    color: blue;
+}
+#creatingquality{
+    font-weight: lighter;
+    color: grey;
+    font-size: large;
+}
+#list{
+    list-style: inside;
+    list-style-type: square;
+    list-style-position:initial;
+    color: black;
+    font-weight: lighter;
+    font-size: large
+}
+#featured{
+    text-align: center;
+    padding-top: 0px;
+    padding-left: 200px;
+}
+#ourfeatured{
+    font-family: Arial, Helvetica, sans-serif;
+    color: blue;
+    text-align: center;
+    border-color: white;
+    border-color: white;
+}
+#biggest{
+    font-size: x-large;
+    color: black;
+    text-align: center;
+    font-weight: lighter;
+}
+#palace{
+    font-size: xx-large;
+    color: black;
+    font-weight: lighter;
+}
+#ivy{
+    color: black;
+}
+#rexona{
+    color: black;
+}
+#lekki2{
+    font-size: large;
+    color: black;
+    font-weight: lighter;
+}
+#lekkiprice{
+    font-size: large;
+    font-weight: lighter;
+}
+#esteemed{
+    display: block;
+    text-align: center;
+    border-color: white;
+}
+#esteemedc{
+    color: blue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#clientsay{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    font-weight: lighter;
+}
+#alex{
+    font-family: Arial, Helvetica, sans-serif;
+}
+#client{
+    display: flex;
+    flex: row;
+    padding: 100px;
+    border-color: white;
+}
+#lorem{
+    font-size: large;
+    font-weight: lighter;
+    color: grey;
+}
+#last{
+    background-color: blue;
+    color: white;
+    list-style: none;
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    font-size: medium;
+}
+#solutions{
+    font-weight: lighter;
+    font-size: large;
+}
+#learning{
+    font-weight: lighter;
+    font-size: medium;
+}
+#about{
+    font-weight: lighter;
+    font-size: medium;
+}
+#resources{
+    font-weight: lighter;
+    font-size: medium;
+}
+

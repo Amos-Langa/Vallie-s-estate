@@ -8,6 +8,9 @@ div{
     border: 1px solid black;
     border-color: white;
 }
+body{
+    background-color: ghostwhite;
+}
 #name{
     font-style: italic;
     padding-right: 100px;
@@ -81,8 +84,9 @@ div{
 #learn{
     padding: 20px;
     background-color: blue;
-    margin-left: 100px;
+    margin-left: 0px;
     color: white;
+    border-radius: 10px;
 }
 #bar2{
     display: flex;
@@ -212,9 +216,11 @@ div{
 }
 #ivy{
     color: black;
+    font-weight: lighter;
 }
 #rexona{
     color: black;
+    font-weight: lighter;
 }
 #lekki2{
     font-size: large;
@@ -245,7 +251,7 @@ div{
 #client{
     display: flex;
     flex: row;
-    padding: 100px;
+    padding: 0px, 200px, 200px, 200px;
     border-color: white;
 }
 #lorem{
@@ -277,5 +283,20 @@ div{
 #resources{
     font-weight: lighter;
     font-size: medium;
+}
+#propertylist{
+    list-style: none;
+    font-weight: lighter;
+    font-size: large;
+}
+#aboutlist{
+    list-style: none;
+    font-weight: lighter;
+    font-size: large;
+}
+#resourceslist{
+    list-style: none;
+    font-size: large;
+    font-weight: lighter;
 }
 

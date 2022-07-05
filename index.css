@@ -10,6 +10,7 @@ div{
 }
 body{
     background-color: ghostwhite;
+
 }
 #name{
     font-style: italic;
@@ -58,18 +59,18 @@ body{
 #helping{
     font-family: sans-serif, Arial, Helvetica, sans-serif;
     padding-left: 100px;
-    font-size: xx-large;
+    font-size: 50px;
     color: blue;
 }
 #property{
     padding-left: 100px;
-    font-size: xx-large;
+    font-size: 50px;
     font-family: sans-serif, Arial, Helvetica, sans-serif;
     color: blue;
 }
 #dreams{
     padding-left: 100px;
-    font-size: xx-large;
+    font-size: 50px;
     font-family: sans-serif, Arial, Helvetica, sans-serif;
     color: blue;
 }
@@ -192,9 +193,10 @@ body{
     font-size: large
 }
 #featured{
-    text-align: center;
-    padding-top: 0px;
-    padding-left: 200px;
+    flex-grow: 100px;
+    display: flex;
+    flex: row;
+    justify-content: space-between;
 }
 #ourfeatured{
     font-family: Arial, Helvetica, sans-serif;
@@ -299,4 +301,6 @@ body{
     font-size: large;
     font-weight: lighter;
 }
-
+html{
+    font-style: Space Grotesk, Oleo Script;
+}

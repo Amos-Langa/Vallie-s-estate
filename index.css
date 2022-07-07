@@ -313,6 +313,8 @@ html{
     display: flex;
     flex: row;
     border-bottom: solid 1px;
+    align-items: center;
+    justify-content: space-between;
 }
 .description{
     display: flex;
@@ -338,4 +340,41 @@ html{
     color: black;
     align-items: center;
     justify-content: space-around;
+}
+.rating{
+    display: flex;
+    flex: row;
+    align-items: center;
+    margin-left: 100px;
+}
+#reasons{
+    list-style: none;
+    line-break: auto;
+    list-style-position: inside;
+    color: black;
+}
+.featuredproperties{
+    display: flex;
+    flex: row;
+    align-items: center;
+    justify-content: space-around;
+}
+.message{
+    display: flex;
+    flex: row;
+    align-items: center;
+    justify-content: space-around;
+    color: black;
+}
+#clientsay{
+    color: black;
+    text-align: center;
+}
+.footer{
+    display: flex;
+    flex: row;
+    align-items: center;
+    justify-content: space-around;
+    background-color: #2549D3;
+    color: white;
 }
